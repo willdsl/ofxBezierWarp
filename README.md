@@ -1,12 +1,9 @@
 ofxBezierWarp
 =============
 
-Performs a warp using openGL bezier surfaces on anything you care to distort/undistort.
+ofxBezier is capable of quickly warping anything one can distort/undistort using Open Graphics Library (OpenGL) Bezier surfaces. Its syntax is similar to that of a Frame Buffer Object (FBO) and incorporates an allocate, begin, end and draw style interface.
 
-Syntax is much like an FBO, with an allocate, begin, end, draw style interface.
+The code was adapted and modified from the method described here: http://forum.openframeworks.cc/index.php/topic,4002.0.html
 
-It's pretty fast.
+If you are using this software for an interesting project, please consider contacting me at “m@gingold.com.au"
 
-Code was adapted from the method described here: http://forum.openframeworks.cc/index.php/topic,4002.0.html
-
-If you're using this software for something cool consider sending me an email to let me know about your project: m@gingold.com.au
